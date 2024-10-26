@@ -8,7 +8,7 @@ import code_icon from "../assets/code_icon.png";
 import gallery_icon from "../assets/gallery_icon.png";
 import mic_icon from "../assets/mic_icon.png";
 import send_icon from "../assets/send_icon.png";
-import { Context } from "./context/Context";
+import { Context } from "../../context/Context";
 import gemini_icon from "../assets/gemini_icon.png";
 const MainContent = () => {
   const {
