@@ -7,7 +7,7 @@ import question_icon from '../assets/question_icon.png'
 import history_icon from '../assets/history_icon.png'
 import setting_icon from '../assets/setting_icon.png'
 import MainContent from './MainContent'
-import { Context } from '../Context/Context'
+import { Context } from '../context/Context'
 
 
 const Sidebar = () => {
