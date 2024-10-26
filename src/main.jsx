@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import ContextProvider from "./Context/Context.jsx";
+import ContextProvider from "./context/Context.jsx";
 
 // import { BrowserRouter } from "react-router-dom";
 // import 'bootstrap/dist/css/bootstrap.min.css';
