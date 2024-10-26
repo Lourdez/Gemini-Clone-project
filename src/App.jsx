@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Sidebar from './component/sidebar'
+import Sidebar from './component/Sidebar'
 // import MainContent from './component/MainContent'
 
 
